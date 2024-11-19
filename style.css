@@ -1,0 +1,27 @@
+body {
+  width: 500px;
+  margin: 0px auto;
+  font-family: "Courier New", Courier, monospace;
+  background-color: white;
+  padding: 30px 75px;
+  border-radius: 15px;
+  border-left: solid 15px;
+  border-right: solid 10px;
+  border-bottom: solid 30px;
+  border-top: solid 5px;
+  border-color: #e5e6e4;
+  margin-top: 25px;
+}
+
+html {
+  background-color: gray;
+}
+
+input {
+  width: 100px;
+  background-color: #ececeb;
+}
+
+img {
+  width: 500px;
+}
